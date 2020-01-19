@@ -1,2 +1,7 @@
 # Magenta-Telegram-CPP
-Magenta. developed in cpp.
+=======================================
+> ##A new home of Magenta.  
+>> ### Patch Note  
+>>  
+>>  
+---------------------------------------
